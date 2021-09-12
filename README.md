@@ -7,4 +7,4 @@
  - [Splash Screen](https://github.com/KorbsStudio/electron-splash-screen)
  - [Welcome Window](https://github.com/KorbsStudio/electron-welcome-window)
  - [Dialog](https://github.com/KorbsStudio/electron-dialog)
- - [Tray](#) (Coming soon)
+ - [Tray](https://github.com/KorbsStudio/electron-tray)
